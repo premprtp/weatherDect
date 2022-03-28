@@ -1,2 +1,2 @@
 # weatherDect
-this is get information of wheater by entering country name
+this is get information of weather by entering country name
